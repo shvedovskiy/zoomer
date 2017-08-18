@@ -99,6 +99,4 @@
     }
 
     window.picSet = new Zoomer('.gallery-1');
-    window.picSet = new Zoomer('.gallery-2');
-    window.picSet = new Zoomer('.gallery-3');
 }());
